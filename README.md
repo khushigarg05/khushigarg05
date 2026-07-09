@@ -163,7 +163,7 @@ Beyond projects, I actively invest time in:
 
 ## 🌐 Let’s Connect
 
-- 💼 **LinkedIn:** add-your-link-here
+- 💼 **LinkedIn:** https://www.linkedin.com/in/khushi-garg-4873a2378?
 - 📧 **Email:** gargkhushi05@gmail.com
 - 💻 **GitHub:** https://github.com/khushigarg05
 
