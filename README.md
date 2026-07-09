@@ -149,7 +149,7 @@ Beyond projects, I actively invest time in:
 ---
 
 ## 📈 GitHub Pulse  
-*A live footprint of the systems I’m building, the problems I’m solving, and the momentum I’m trying to keep real.*
+*Consistency in code, visible in commits, projects, and problem-solving momentum.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushigarg05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
