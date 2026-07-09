@@ -1,147 +1,175 @@
-# Khushi Garg
+<h1 align="center">Khushi Garg</h1>
+<h3 align="center">⚡ Building AI-backed systems, solving algorithmic puzzles, and turning ambitious ideas into working products.</h3>
 
-### Building AI-backed products, solving algorithmic problems, and turning ideas into systems that actually work.
-
-I’m a Computer Science student with a strong interest in **software development, problem solving, scalable systems, and AI-driven applications**.  
-My work sits at the intersection of **development + DSA + applied AI** — from building **RAG-powered platforms and multilingual chatbots** to designing **learning-path systems from unstructured content** and sharpening logic through competitive programming.
-
-I use GitHub as more than a code dump — this is where I document the projects, experiments, and systems that reflect how I think, build, and improve.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%7C+DSA+%7C+Full-Stack+%7C+AI+Applications;From+RAG+pipelines+to+hackathon+builds+%E2%80%94+I+like+code+with+substance.;Building+systems+that+do+more+than+just+compile." alt="Typing SVG" />
+</p>
 
 ---
 
-## What I’m Building Around
+## 🧭 A little about me
 
-- **AI-powered applications** using LLM workflows, RAG pipelines, and automation
-- **Full-stack / web-based products** designed around usability and real-world use cases
-- **DSA and competitive programming** to strengthen algorithmic thinking and coding depth
-- **Systems that organize, retrieve, and transform information intelligently**
+I’m **Khushi Garg** — a Computer Science student who enjoys building **AI-powered applications, problem-solving systems, and practical software that feels purposeful rather than performative**.
 
----
+My work lives at the intersection of **development, DSA, and applied AI** — whether that means building a **RAG-powered agri-support platform**, designing a **learning path generator from scattered developer content**, or using competitive programming to sharpen the way I think about logic, efficiency, and structure.
 
-## Tech Stack
-
-### Languages
-`C` `C++` `Python` `Java` `JavaScript` `SQL`
-
-### Development
-`HTML` `CSS` `React.js` `Node.js` `REST APIs`
-
-### AI / ML
-`Machine Learning` `Deep Learning` `NumPy` `Pandas` `Scikit-learn` `LLM Applications` `RAG`
-
-### Databases / Tools
-`MySQL` `FAISS` `ChromaDB` `Git` `GitHub` `VS Code` `Google Colab` `Jupyter Notebook` `Android Studio` `Postman` `n8n`
+I’m not interested in filling GitHub with random repositories for decoration.  
+I care about **clarity, execution, and projects that actually say something about how I build.**
 
 ---
 
-# Featured Work
+## ⚔️ What I’m building around
 
-## Farmer and Rural Development Portal
-**AI-powered agri-support platform** designed to help farmers discover government schemes, crop requirements, soil and weather suitability, market prices, and video-based agricultural guidance.
-
-### What makes it interesting:
-- Integrated an **AI chatbot** for farmer query resolution
-- Used **RAG-based context retrieval** to improve agricultural and scheme-related assistance
-- Designed with the goal of making fragmented rural/agri information more accessible through one platform
-- Explored workflow automation for retrieval, updates, and service orchestration
-
-**Tech:** React.js, Node.js, JavaScript, MySQL, REST APIs, n8n, LLM / RAG concepts
+- 🧠 **AI-backed applications** powered by LLM workflows, retrieval systems, and practical automation
+- 💻 **Web and product-oriented development** focused on usability, structure, and real-world utility
+- 🧩 **Data Structures & Algorithms** to strengthen problem-solving depth and system thinking
+- 🚀 **Hackathon-grade builds** that move from raw ideas to functioning prototypes with purpose
 
 ---
 
-## Learning Path Generator from Unstructured Developer Content
-A system designed to process scattered learning resources across **YouTube, GitHub, PDFs, and blogs** and convert them into a **personalized prerequisite-aware learning roadmap**.
+## 🛠️ Tech Arsenal
 
-### Core idea:
-Instead of consuming random content, this project tries to **extract concepts, map dependencies, and build an ordered learning path**.
+### 👩‍💻 Languages
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white)
 
-### What it involved:
-- Topic extraction from multiple resource formats
-- Concept mapping and dependency modeling
-- Building a **DAG-based knowledge graph**
-- Using **Kahn’s Algorithm with BFS** to generate an optimized prerequisite-aware sequence
+### 🌐 Development
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Recognition:** Built during **Smart ABES Hackathon** and selected among the **Top 30 finalists**
+### 🤖 AI / ML / Retrieval
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-111827?style=for-the-badge&logo=semanticweb&logoColor=white)
+![LLM Apps](https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## AI-Based Voice Detection System
-A prototype built to analyze uploaded audio and identify whether speech is **AI-generated or human-generated** through an API-integrated workflow.
-
-### Focus areas:
-- audio analysis pipeline
-- model-backed classification logic
-- API integration and prototype deployment flow
-
-**Recognition:** Solution accepted in **AI Impact Buildathon**
-
----
-
-## Personal Portfolio Website
-A responsive portfolio built to showcase projects, skills, and achievements with cleaner UI/UX and recruiter-focused structure.
-
-**Tech:** HTML, CSS, JavaScript, React.js
-
----
-
-## Android Application
-Built an Android application using Kotlin with structured navigation and reusable components, focusing on UI flow and user experience.
-
-**Tech:** Kotlin, Android Studio, XML
+### 🗃️ Databases / Tools
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-111827?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-111827?style=for-the-badge&logo=androidstudio&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-# Hackathons & Build Experience
+## 🚀 Signature Work
 
-## Smart ABES Hackathon (SAH 2.0)
-- Built an **AI-driven Learning Path system** that processed 500+ resources to generate personalized learning roadmaps
-- Designed concept extraction and knowledge mapping logic for dependency-based sequencing
-- Reached the **Top 30 finalist** stage
+### 🌾 Farmer & Rural Development Portal
+An **AI-powered agri-support platform** built to make rural and agricultural information more accessible, actionable, and less fragmented.  
+It brings together **government schemes, crop guidance, soil and weather context, market prices, and AI-assisted support** into one unified experience.
 
-## AI Impact Buildathon
-- Worked on an **AI-based voice detection solution**
-- Contributed to solution development, integration, and prototype deployment
-- Project was accepted during evaluation
+**Why it stands out**
+- integrated a **multilingual AI chatbot** for farmer-focused assistance  
+- explored **RAG-based retrieval** for contextual agricultural and scheme-related guidance  
+- focused on solving a real accessibility problem through product thinking, not just UI screens  
 
-## HCL GUVI Hackathon
-- Built an **AI chatbot** focused on automating user interaction and query resolution through conversational AI concepts
+**Built with:** React.js, Node.js, JavaScript, MySQL, REST APIs, n8n, LLM / RAG concepts
 
 ---
 
-# Problem Solving & Core CS
+### 🧠 Learning Path Generator from Unstructured Developer Content
+A system built around one simple question:  
+**why should learning from scattered content feel chaotic when it can be structured intelligently?**
 
-Alongside projects, I actively work on:
+This project processes resources from **YouTube, GitHub, PDFs, and blogs**, extracts concepts, maps dependencies, and generates a **personalized prerequisite-aware roadmap** for learners.
+
+**Core engineering ideas**
+- concept extraction from unstructured resources  
+- DAG-based knowledge modeling  
+- prerequisite mapping across topics  
+- **Kahn’s Algorithm + BFS** to generate optimized learning order  
+
+🏆 **Smart ABES Hackathon — Top 30 Finalist**
+
+---
+
+### 🎙️ AI-Based Voice Detection System
+A prototype focused on analyzing uploaded audio and identifying whether speech is **AI-generated or human-generated** through an API-integrated workflow.
+
+Built around the growing challenge of synthetic media, this project explored:
+- audio analysis flow  
+- classification logic for generated vs human speech  
+- prototype integration and deployment thinking  
+
+✨ **Accepted solution at AI Impact Buildathon**
+
+---
+
+### 🌐 Personal Portfolio Website
+A responsive portfolio website built to present projects, skills, and achievements with a cleaner, recruiter-facing structure and stronger UI focus.
+
+---
+
+### 📱 Android Application
+An Android app built with **Kotlin + XML**, centered around structured navigation, reusable components, and smooth user interaction.
+
+---
+
+## 🏆 Buildathons, Hackathons & Competitive Edge
+
+### 🥇 Smart ABES Hackathon (SAH 2.0)
+Built an AI-driven learning path system capable of processing 500+ resources and transforming scattered content into structured learning roadmaps.  
+**Selected among the Top 30 finalists.**
+
+### ⚡ AI Impact Buildathon
+Worked on an AI-based voice detection solution designed to identify synthetic speech through an integrated workflow.  
+**Accepted during evaluation.**
+
+### 🤖 HCL GUVI Hackathon
+Built an AI chatbot to automate interaction flow and support intelligent query resolution.
+
+---
+
+## 🧩 Problem Solving Zone
+
+Beyond projects, I actively invest time in:
 - **Data Structures & Algorithms**
 - **competitive programming**
-- **object-oriented programming**
-- **DBMS and operating systems fundamentals**
-- improving how I approach logic, optimization, and system design thinking
+- strengthening **logic, optimization, and code quality**
+- learning how to think in systems, not just syntax
 
-Platforms I practice on:
+### Platforms
 - **LeetCode**
 - **CodeChef**
 - **Codeforces**
 
 ---
 
-# Current Focus
+## 📈 GitHub Pulse
 
-Right now, I’m focused on:
-- building stronger **AI + software development** projects
-- improving depth in **DSA and algorithmic problem solving**
-- turning hackathon ideas into **more polished production-style projects**
-- writing cleaner code, better documentation, and more serious project architecture
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushigarg05&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushigarg05&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
----
-
-# Connect
-
-- **LinkedIn:** [Add your LinkedIn link here]
-- **Email:** gargkhushi05@gmail.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushigarg05&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 
 ---
 
-# Profile Philosophy
+## 🌐 Let’s Connect
 
-I’m not trying to fill GitHub with random repositories and unfinished code just to make it look active.  
-I want this profile to reflect **clarity, curiosity, and execution** — projects with thought behind them, systems that solve something meaningful, and visible growth as a developer.
+- 💼 **LinkedIn:** add-your-link-here
+- 📧 **Email:** gargkhushi05@gmail.com
+- 💻 **GitHub:** https://github.com/khushigarg05
+
+---
+
+## ✨ Profile Philosophy
+
+I don’t want this GitHub to be a storage room of half-finished files and forgotten experiments.  
+I want it to reflect **how I think, how I build, and how I’m growing** — through meaningful projects, sharper problem solving, and systems that are designed with intent.
