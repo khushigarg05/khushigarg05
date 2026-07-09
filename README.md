@@ -2,7 +2,7 @@
 <h3 align="center">⚡ Building AI-backed systems, solving algorithmic puzzles, and turning ambitious ideas into working products.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=950&lines=Computer+Science+Student+%7C+DSA+%7C+Full-Stack+%7C+AI+Applications;From+hackathon+builds+to+problem-solving+systems+%E2%80%94+I+like+code+with+substance.;Building+projects+that+aim+to+be+useful%2C+intentional%2C+and+technically+sound." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=1100&lines=Computer+Science+Student+%7C+DSA+%7C+Full-Stack+%7C+AI+Applications;From+hackathon+builds+to+problem-solving+systems+%E2%80%94+I+like+code+with+substance.;Building+projects+that+aim+to+be+useful%2C+intentional%2C+and+technically+sound." alt="Typing SVG" />
 </p>
 
 <p align="center">
