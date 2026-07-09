@@ -139,53 +139,52 @@ Built an AI chatbot focused on automating interaction flow and improving query r
 
 ---
 
-## 🧩 Problem Solving Zone
+## 🧩 Problem Solving & Learning Arena
 
-Beyond projects, I actively invest time in:
+Beyond projects, I actively invest in the part of engineering that doesn’t always announce itself through flashy interfaces — **problem solving, algorithmic depth, experimentation, and the discipline of getting better consistently**.
+
 - **Data Structures & Algorithms**
 - **competitive programming**
+- **machine learning practice and experimentation**
 - strengthening **logic, optimization, and code quality**
 - learning how to think in systems, not just syntax
 
 ### 🌍 Platforms I Practice On
 
 <p align="left">
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-111827?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/khushigarg11/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+  <a href="https://www.codechef.com/users/khushigarg05"><img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/gargkhushi0511"><img src="https://img.shields.io/badge/Codeforces-111827?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/khushigarg06"><img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
+  <a href="https://www.hackerrank.com/profile/khushigarg11"><img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
 </p>
 
 ---
 
-## 📈 GitHub Pulse  
-*Consistency in code, visible in commits, projects, and problem-solving momentum.*
+## 🛰️ Current Orbit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushigarg05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=khushigarg05&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+Right now, most of my energy is going into the kind of work that compounds quietly but changes how I build over time:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigarg05&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+- building **AI-backed and full-stack projects** that feel closer to real products than classroom submissions  
+- getting stronger at **graphs, problem solving, and competitive programming consistency**  
+- exploring how **retrieval, automation, and developer-focused AI systems** can be made more practical  
+- turning hackathon prototypes into **cleaner, better-documented, and more production-minded builds**
 
----
-
-## 🚀 Current Focus
-
-Right now, I’m investing most of my time in three things:
-
-- building stronger **AI-backed and full-stack projects** that feel closer to real products than classroom submissions  
-- sharpening **DSA, graph logic, and competitive programming consistency**  
-- turning hackathon ideas into cleaner, better-documented, and more production-minded systems  
+### 🔭 On My Radar
+- RAG-flavored applications and retrieval pipelines  
+- graph-driven systems and prerequisite modeling  
+- full-stack product builds with stronger backend depth  
+- cleaner documentation, architecture thinking, and deployable projects  
 
 ---
 
 ## 🌐 Let’s Connect
 
-- 💼 **LinkedIn:** [Khushi Garg](https://www.linkedin.com/in/khushi-garg-4873a2378/)
-- 📧 **Email:** [gargkhushi05@gmail.com](mailto:gargkhushi05@gmail.com)
-- 💻 **GitHub:** [khushigarg05](https://github.com/khushigarg05)
+<p align="left">
+  <a href="https://www.linkedin.com/in/khushi-garg-4873a2378/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:gargkhushi05@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/khushigarg05"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
