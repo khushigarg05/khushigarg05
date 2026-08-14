@@ -99,74 +99,303 @@ I want it to reflect **clarity, execution, and projects that say something real 
 ![n8n](https://img.shields.io/badge/n8n-1F2937?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
+---
 
-## 🚀 Signature Work
+# 🚀 Selected Builds
 
-### 🌾 Farmer & Rural Development Portal
-An **AI-assisted agri-support platform** designed to make rural and agricultural information more accessible, actionable, and less fragmented.  
-It brings together **government schemes, crop guidance, soil and weather context, market prices, and farmer-focused support** into one unified experience.
+> **From ideas on a blank screen to systems that actually work.**
 
-**What makes it meaningful**
-- designed with a **chatbot-based assistance layer** to improve farmer-side accessibility  
-- explored **AI-assisted retrieval ideas** for contextual agricultural and scheme-related guidance  
-- focused on solving a real information-access problem through product thinking, not just interface design  
-
-**Built with:** React.js, Node.js, JavaScript, MySQL, REST APIs, n8n, AI / retrieval concepts
+I enjoy building projects where technology is not just demonstrated — it is used to solve a real problem, automate a workflow, or create a better experience.
 
 ---
 
-### 🧠 Learning Path Generator from Unstructured Developer Content
-A system built around one simple question:  
-**why should learning from scattered content feel chaotic when it can be structured intelligently?**
+## 🧠 MindWeave — AI Knowledge OS
 
-This project is designed to process resources from **YouTube, GitHub, PDFs, and blogs**, extract concepts, map dependencies, and generate a **prerequisite-aware learning roadmap** for learners.
+**An intelligent workspace for turning scattered information into connected knowledge.**
 
-**Core engineering ideas**
-- concept extraction from unstructured resources  
-- DAG-based knowledge modeling  
-- prerequisite mapping across topics  
-- **Kahn’s Algorithm + BFS** to generate an optimized learning sequence  
+MindWeave is an ambitious AI-powered knowledge platform designed around the idea that information should not simply be stored — it should be **understood, connected, retrieved, and acted upon.**
 
-🏆 **Smart ABES Hackathon — Top 30 Finalist**
+The system explores the intersection of:
 
----
+`AI Agents` • `Semantic Memory` • `Vector Search` • `RAG` • `Automation` • `Reasoning`
 
-### 🎙️ AI-Based Voice Detection System
-A prototype focused on analyzing uploaded audio and identifying whether speech is **AI-generated or human-generated** through an API-integrated workflow.
+### ⚡ What makes it different
 
-Built around the growing challenge of synthetic media, this project explored:
-- audio analysis flow  
-- classification logic for generated vs human speech  
-- prototype integration and deployment thinking  
+- 🧠 **AI-powered knowledge orchestration**
+- 🔗 Connects information instead of treating every piece of data independently
+- 🔍 Uses semantic retrieval concepts to find context beyond simple keyword matching
+- 🤖 Designed around intelligent AI-agent workflows
+- ⚙️ Explores automation and reasoning as part of the knowledge lifecycle
+- 🧩 Built with a modern full-stack architecture
 
-✨ **Accepted solution at AI Impact Buildathon**
+### 🛠️ Tech Stack
 
----
+**Next.js • React • Tailwind CSS • TypeScript • AI Agents • RAG • Vector Search • Semantic Memory**
 
-### 🌐 Personal Portfolio Website
-A responsive portfolio website built to present projects, skills, and achievements with a cleaner, recruiter-facing structure and stronger UI focus.
+> **MindWeave is built around one idea:**
+>  
+> *Don't just store knowledge. Make it work for you.*
 
 ---
 
-### 📱 Android Application
-An Android application built with **Kotlin + XML**, centered around structured navigation, reusable components, and smoother user interaction.
+## 🎙️ AI Interview Agent — VICodathon
+
+### ⚡ 48-Hour Build
+
+Built during a **48-hour hackathon**, this project explores how AI can transform traditional interview preparation into an adaptive conversation.
+
+The **AI Interview Agent** conducts personalized technical interviews based on a candidate's learning journey instead of asking the same generic questions to everyone.
+
+### 🧠 Core capabilities
+
+- 🎯 Personalized interview generation
+- 🔄 Adaptive follow-up questions
+- 🧩 Context-aware conversation
+- 📚 Curriculum-driven questioning
+- 🤖 AI-powered evaluation
+- 💬 Interactive interview experience
+- 📊 Feedback-oriented assessment
+
+### 🏗️ Architecture
+
+`Frontend` → `Backend API` → `AI Interview Engine` → `Curriculum / Candidate Context` → `Personalized Questions`
+
+### 🛠️ Tech Stack
+
+**Next.js • React • Tailwind CSS • Python • FastAPI • AI/LLM Workflows • REST APIs**
+
+> **48 hours. One idea. One working AI system.**
+>
+> Built under pressure, refined through iteration.
 
 ---
 
-## 🏆 Buildathons, Hackathons & Competitive Edge
+## 🌸 HerCareer Navigator — AWS PartyRock
 
-### 🥇 Smart ABES Hackathon (SAH 2.0)
-Built an AI-driven learning path system designed to transform scattered developer resources into structured, personalized learning roadmaps.  
-**Selected among the Top 30 finalists.**
+**An AI-powered career exploration experience built with AWS PartyRock.**
 
-### ⚡ AI Impact Buildathon
-Worked on an AI-based voice detection solution designed to identify synthetic speech through an integrated workflow.  
-**Accepted during evaluation.**
+HerCareer Navigator was designed to help users navigate career possibilities through an AI-driven experience focused on skills, opportunities, and personalized direction.
 
-### 🤖 HCL GUVI Hackathon
-Built an AI chatbot focused on automating interaction flow and improving query resolution through conversational logic.
+Built as part of the **Women Who Master Hackathon**, the project explored how generative AI can make career discovery more accessible and personalized.
+
+### ✨ Highlights
+
+- 🤖 AI-powered career guidance
+- 🧭 Personalized career navigation
+- 💡 Skill and opportunity exploration
+- 🌐 Generative-AI-powered interaction
+- ☁️ Built and prototyped using **AWS PartyRock**
+
+### 🛠️ Tech
+
+**AWS PartyRock • Generative AI • Prompt Engineering • AI Application Design**
+
+> **Not just “What career should I choose?”**
+>
+> **But “What could my next career move look like?”**
 
 ---
+
+## 🌾 Farmer & Rural Development Portal
+
+**Technology designed around accessibility, information, and real-world impact.**
+
+An AI-assisted platform created to make agricultural and rural-development information easier to discover and understand.
+
+The platform brings together:
+
+🌦️ Weather information  
+🌱 Agricultural guidance  
+🏛️ Government schemes  
+💰 Market information  
+🤖 AI-assisted support  
+🌐 Multilingual accessibility
+
+### 🧠 Engineering Focus
+
+- AI-assisted farmer support
+- RAG-oriented information retrieval
+- REST API integration
+- Multilingual user experience
+- Automation workflows
+- Real-world information aggregation
+
+### 🛠️ Tech Stack
+
+**HTML • CSS • JavaScript • React • Node.js • MySQL • REST APIs • n8n • AI / RAG Concepts**
+
+---
+
+## 🧩 Algorithmic Learning Path Generator
+
+**Turning scattered developer content into structured learning journeys.**
+
+A system designed to process learning resources from sources such as **YouTube, GitHub, PDFs, and blogs**, extract concepts, understand their dependencies, and generate a structured learning path.
+
+### ⚙️ Core Engineering
+
+- 📚 Unstructured content processing
+- 🧠 Concept extraction
+- 🔗 Prerequisite dependency mapping
+- 🌐 Knowledge graph / DAG-based modeling
+- 🔀 Topological ordering
+- 🔎 BFS-based traversal
+- 📈 Personalized learning roadmap generation
+
+### 🏆 Achievement
+
+**🥇 Smart ABES Hackathon 2.0 — Top 30 Finalist**
+
+> **Instead of asking learners to find the right order —**
+> **the system tries to discover the order for them.**
+
+---
+
+## 🎙️ AI-Based Voice Detection System
+
+An AI-focused prototype exploring the detection of **synthetic / AI-generated speech** through an integrated analysis workflow.
+
+### 🔍 Focus Areas
+
+- Audio analysis
+- Synthetic speech detection
+- Classification workflow
+- API integration
+- AI-powered media analysis
+
+### 🏆 Achievement
+
+**✨ Accepted Solution — AI Impact Buildathon**
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive developer portfolio designed around a recruiter-first experience — showcasing projects, technical skills, achievements, and competitive programming progress.
+
+**HTML • CSS • JavaScript • Responsive UI**
+
+---
+
+## 📱 Android Application
+
+An Android application developed with a focus on structured navigation, reusable components, and a clean user experience.
+
+**Kotlin • XML • Android Studio**
+
+---
+
+# 🏆 Hackathons & Buildathons
+
+> **I don't just participate in hackathons. I use them as compressed engineering environments.**
+
+Every event brings a different constraint:
+
+`Limited Time` → `Unclear Requirements` → `Rapid Learning` → `Team Collaboration` → `Working Prototype`
+
+---
+
+## 🌸 Women Who Master Hackathon
+
+### **Zonal Round Participant**
+
+One of the strongest recent milestones in my hackathon journey.
+
+Cleared **Round 1 from approximately 1 lakh applications**, advancing into the **Top 2500 participants** and earning a place in the **Zonal Round**.
+
+During the hackathon journey, worked on **HerCareer Navigator**, an AI-powered career navigation experience built using **AWS PartyRock**.
+
+### 🏅 Milestone
+
+**~100,000 Applications → Top 2,500 → Zonal Round**
+
+### 🛠️ Built With
+
+**AWS PartyRock • Generative AI • Prompt Engineering • AI Application Design**
+
+> **From a pool of ~1 lakh applicants to the Zonal Round.**
+>
+> **Proof that ideas become opportunities when you keep building.**
+
+---
+
+## ⚡ VICodathon
+
+### **48-Hour Hackathon**
+
+Built the **AI Interview Agent** during a fast-paced 48-hour development sprint.
+
+The project focused on creating an AI interviewer capable of adapting questions to a candidate's learning journey and maintaining conversational context.
+
+### 🚀 What we built
+
+**Personalized Technical Interview → Adaptive Follow-ups → Context → AI Evaluation → Feedback**
+
+### 🛠️ Stack
+
+**Next.js • React • Tailwind CSS • Python • FastAPI • AI/LLM Workflows**
+
+> **48 hours to go from problem statement → architecture → implementation → working prototype.**
+
+---
+
+## 🥇 Smart ABES Hackathon 2.0
+
+Built an **Algorithmic Learning Path Generator from Unstructured Developer Content**.
+
+The system processed **500+ learning resources** and explored how AI + algorithms could transform scattered developer content into prerequisite-aware learning roadmaps.
+
+### 🏆 Achievement
+
+**Top 30 Finalist**
+
+### 🧠 Core Algorithms
+
+**Kahn's Algorithm • BFS • DAG-based Dependency Mapping**
+
+---
+
+## ✨ AI Impact Buildathon
+
+Developed an **AI-based Voice Detection System** focused on identifying synthetic versus human-generated speech.
+
+### 🏆 Achievement
+
+**Accepted Solution**
+
+---
+
+## 🤖 HCL GUVI Hackathon
+
+Built an **AI chatbot** focused on intelligent interaction and automated query resolution.
+
+### 🧠 Focus
+
+**Conversational AI • Automation • Intelligent Query Handling**
+
+---
+
+# 📊 My Builder Timeline
+
+```text
+🌾 Real-World Web Development
+        ↓
+🤖 AI & Automation Experiments
+        ↓
+🧩 Algorithmic Problem Solving
+        ↓
+🏆 Hackathon Prototypes
+        ↓
+🎙️ AI Interview Agent
+        ↓
+🌸 Women Who Master — Top 2500
+        ↓
+🧠 MindWeave — AI Knowledge OS
+        ↓
+🚀 Building what comes next...
+
+
+
 
 ## 🧩 Problem Solving & Learning Arena
 
