@@ -394,7 +394,7 @@ Built an **AI chatbot** focused on intelligent interaction and automated query r
         ↓
 🚀 Building what comes next...
 
-
+---
 
 
 ## 🧩 Problem Solving & Learning Arena
