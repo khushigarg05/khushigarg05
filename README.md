@@ -1,17 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Khushi+Garg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Khushi+Garg" alt="Khushi Garg" />
 </h1>
 
-<h3 align="center">⚡ Building AI-backed systems, solving algorithmic puzzles, and turning ambitious ideas into working products.</h3>
+<h3 align="center">
+  ⚡ Building AI systems • Engineering products • Solving problems • Turning ideas into execution
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=1100&lines=Computer+Science+Student+%7C+DSA+%7C+Full-Stack+%7C+AI+Applications;From+hackathon+builds+to+problem-solving+systems+%E2%80%94+I+like+code+with+substance.;Building+projects+that+aim+to+be+useful%2C+intentional%2C+and+technically+sound." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=1200&lines=Computer+Science+Student+%7C+AI+%26+Full-Stack+Developer+%7C+Problem+Solver;From+48-hour+builds+to+AI+knowledge+systems+%E2%80%94+I+build+under+constraints;Exploring+the+intersection+of+AI%2C+algorithms%2C+automation%2C+and+product+engineering;Building+systems+that+do+more+than+just+compile." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathon%20Finalist-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA%20%26%20Competitive%20Programming-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Applications-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA%20%26%20CP-EC4899?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon%20Builder-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
@@ -24,47 +27,96 @@
   <a href="https://github.com/khushigarg05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/khushigarg11/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 🧭 A Little About Me
+# 🧭 Who I Am
 
-I’m **Khushi Garg** — a Computer Science student who enjoys building **AI-powered applications, problem-solving systems, and practical software that feels purposeful rather than performative**.
+I'm **Khushi Garg**, a Computer Science student fascinated by what happens when **algorithms, AI, and product engineering** meet a real problem.
 
-My work sits at the intersection of **development, DSA, and applied AI** — whether that means shaping an **AI-assisted agri-support platform**, designing a **learning path generator from scattered developer content**, or using competitive programming to sharpen the way I think about **logic, efficiency, and structure**.
+I build systems across the spectrum — from **AI-powered applications and full-stack products** to **algorithmic problem-solving and rapid hackathon prototypes**.
 
-I’m not interested in treating GitHub like a storage room for random code.  
-I want it to reflect **clarity, execution, and projects that say something real about how I build.**
+My approach is simple:
 
----
+> **Don't build just to demonstrate technology.  
+> Build something that makes the technology worth demonstrating.**
 
-## ⚔️ What I’m Building Around
+I'm particularly interested in:
 
-- 🧠 **AI-backed applications** shaped by LLM workflows, retrieval ideas, and practical automation  
-- 💻 **Web and product-oriented development** focused on usability, structure, and real-world utility  
-- 🧩 **Data Structures & Algorithms** to strengthen problem-solving depth and system thinking  
-- 🚀 **Hackathon-grade builds** that move from raw ideas to working prototypes with intent  
+`Applied AI` • `AI Agents` • `RAG` • `Full-Stack Engineering` • `Automation` • `DSA` • `Developer Tools`
 
 ---
 
-## ✨ Engineering Themes
+# ⚡ What I Build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Applied%20AI-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Projects-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon%20Builds-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Applied AI
+
+Building applications around:
+
+- LLM workflows
+- AI agents
+- RAG concepts
+- Semantic retrieval
+- AI-powered automation
+- Intelligent recommendation systems
+
+</td>
+
+<td width="50%">
+
+### 💻 Product Engineering
+
+Turning ideas into usable systems through:
+
+- React / Next.js
+- APIs & backend services
+- Databases
+- Responsive interfaces
+- Deployment-oriented architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 Algorithmic Thinking
+
+Sharpening engineering fundamentals through:
+
+- Data Structures & Algorithms
+- Competitive Programming
+- Graph algorithms
+- Optimization
+- Complexity analysis
+
+</td>
+
+<td width="50%">
+
+### 🚀 Rapid Prototyping
+
+Comfortable moving through:
+
+`Idea → Architecture → Build → Debug → Demo`
+
+especially in high-pressure hackathon environments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Arsenal
 
 ### 👩‍💻 Languages
+
 ![C](https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1F2937?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=white)
@@ -73,139 +125,152 @@ I want it to reflect **clarity, execution, and projects that say something real 
 ![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1F2937?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 AI / ML / Retrieval
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1F2937?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🤖 AI / ML
+
+![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1F2937?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge&logo=numpy&logoColor=white)
-![RAG Concepts](https://img.shields.io/badge/RAG%20Concepts-1F2937?style=for-the-badge&logo=semanticweb&logoColor=white)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-1F2937?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge&logo=semanticweb&logoColor=white)
+![LLM Apps](https://img.shields.io/badge/LLM%20Applications-1F2937?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🗃️ Databases / Tools
+### 🗃️ Tools / Data
+
 ![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-1F2937?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1F2937?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-1F2937?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-1F2937?style=for-the-badge&logo=n8n&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1F2937?style=for-the-badge&logo=androidstudio&logoColor=white)
 
----
 ---
 
 # 🚀 Selected Builds
 
-> **From ideas on a blank screen to systems that actually work.**
-
-I enjoy building projects where technology is not just demonstrated — it is used to solve a real problem, automate a workflow, or create a better experience.
+> **A collection of experiments, products, systems, and hackathon builds.**
 
 ---
 
 ## 🧠 MindWeave — AI Knowledge OS
 
-**An intelligent workspace for turning scattered information into connected knowledge.**
+### `AI • Agents • Semantic Memory • Vector Search • Automation`
 
-MindWeave is an ambitious AI-powered knowledge platform designed around the idea that information should not simply be stored — it should be **understood, connected, retrieved, and acted upon.**
+MindWeave is an ambitious AI-powered **Knowledge OS** designed around a simple question:
 
-The system explores the intersection of:
+> **What if your information didn't just sit there — but actually worked for you?**
 
-`AI Agents` • `Semantic Memory` • `Vector Search` • `RAG` • `Automation` • `Reasoning`
+Instead of treating information as isolated documents, MindWeave explores how AI can **understand, connect, retrieve, reason over, and act on knowledge**.
 
-### ⚡ What makes it different
+### ⚡ Core Ideas
 
-- 🧠 **AI-powered knowledge orchestration**
-- 🔗 Connects information instead of treating every piece of data independently
-- 🔍 Uses semantic retrieval concepts to find context beyond simple keyword matching
-- 🤖 Designed around intelligent AI-agent workflows
-- ⚙️ Explores automation and reasoning as part of the knowledge lifecycle
-- 🧩 Built with a modern full-stack architecture
+- 🧠 AI-powered knowledge orchestration
+- 🤖 AI-agent workflows
+- 🔗 Semantic memory
+- 🔍 Vector-based retrieval
+- 📚 RAG-oriented architecture
+- ⚙️ Automation pipelines
+- 🧩 Context-aware reasoning
 
-### 🛠️ Tech Stack
+### 🏗️ Architecture Direction
 
-**Next.js • React • Tailwind CSS • TypeScript • AI Agents • RAG • Vector Search • Semantic Memory**
+`User Input → Knowledge Layer → Semantic Retrieval → AI Reasoning → Action`
 
-> **MindWeave is built around one idea:**
->  
+### 🛠️ Stack
+
+**Next.js • React • TypeScript • Tailwind CSS • AI Agents • RAG • Vector Search • Semantic Memory**
+
+> **MindWeave**
+>
 > *Don't just store knowledge. Make it work for you.*
 
 ---
 
-## 🎙️ AI Interview Agent — VICodathon
+# 🎙️ AI Interview Agent
 
-### ⚡ 48-Hour Build
+### `VICodathon • 48-Hour Build`
 
-Built during a **48-hour hackathon**, this project explores how AI can transform traditional interview preparation into an adaptive conversation.
+What happens when interview preparation stops being a list of questions and starts becoming an **adaptive conversation**?
 
-The **AI Interview Agent** conducts personalized technical interviews based on a candidate's learning journey instead of asking the same generic questions to everyone.
+That's the idea behind the AI Interview Agent.
 
-### 🧠 Core capabilities
+Built during a **48-hour hackathon**, the system was designed to conduct personalized technical interviews based on a candidate's learning journey.
 
-- 🎯 Personalized interview generation
-- 🔄 Adaptive follow-up questions
-- 🧩 Context-aware conversation
-- 📚 Curriculum-driven questioning
-- 🤖 AI-powered evaluation
-- 💬 Interactive interview experience
-- 📊 Feedback-oriented assessment
+### 🧠 What It Does
 
-### 🏗️ Architecture
+- 🎯 Generates personalized technical questions
+- 🔄 Adapts through follow-up questions
+- 🧩 Maintains conversational context
+- 📚 Uses curriculum / candidate information
+- 🤖 Integrates AI-driven interview logic
+- 📊 Provides evaluation-oriented feedback
 
-`Frontend` → `Backend API` → `AI Interview Engine` → `Curriculum / Candidate Context` → `Personalized Questions`
+### 🏗️ System Flow
 
-### 🛠️ Tech Stack
+`Candidate → Interview API → AI Engine → Curriculum Context → Question → Follow-up → Evaluation`
 
-**Next.js • React • Tailwind CSS • Python • FastAPI • AI/LLM Workflows • REST APIs**
+### 🛠️ Stack
 
-> **48 hours. One idea. One working AI system.**
->
-> Built under pressure, refined through iteration.
+**Next.js • React • Tailwind CSS • Python • FastAPI • AI / LLM Workflows • REST APIs**
+
+### ⚡ The Constraint
+
+**48 hours.**
+
+From:
+
+`Problem Statement → Architecture → Backend → AI Logic → Frontend → Integration → Demo`
+
+> **Built under pressure. Refined through iteration.**
 
 ---
 
-## 🌸 HerCareer Navigator — AWS PartyRock
+# 🌸 HerCareer Navigator
 
-**An AI-powered career exploration experience built with AWS PartyRock.**
+### `Women Who Master Hackathon • AWS PartyRock`
 
-HerCareer Navigator was designed to help users navigate career possibilities through an AI-driven experience focused on skills, opportunities, and personalized direction.
+HerCareer Navigator is an AI-powered career exploration experience designed around one idea:
 
-Built as part of the **Women Who Master Hackathon**, the project explored how generative AI can make career discovery more accessible and personalized.
+> **Career discovery should feel like navigation — not guesswork.**
+
+The project explores how generative AI can help users understand potential career directions, skills, and opportunities through an interactive experience.
 
 ### ✨ Highlights
 
-- 🤖 AI-powered career guidance
-- 🧭 Personalized career navigation
-- 💡 Skill and opportunity exploration
-- 🌐 Generative-AI-powered interaction
-- ☁️ Built and prototyped using **AWS PartyRock**
+- 🧭 AI-assisted career navigation
+- 🤖 Generative AI interaction
+- 💡 Career & skill exploration
+- 🎯 Personalized guidance
+- ☁️ Built using AWS PartyRock
 
-### 🛠️ Tech
+### 🛠️ Stack
 
 **AWS PartyRock • Generative AI • Prompt Engineering • AI Application Design**
 
-> **Not just “What career should I choose?”**
->
-> **But “What could my next career move look like?”**
-
 ---
 
-## 🌾 Farmer & Rural Development Portal
+# 🌾 Farmer & Rural Development Portal
 
-**Technology designed around accessibility, information, and real-world impact.**
+### `AI • Accessibility • Rural Technology`
 
-An AI-assisted platform created to make agricultural and rural-development information easier to discover and understand.
+A technology-focused platform designed to make agricultural and rural-development information **easier to discover, understand, and act upon**.
 
-The platform brings together:
+The platform brings multiple information sources into a unified experience.
+
+### 🌱 Features
 
 🌦️ Weather information  
-🌱 Agricultural guidance  
+🌾 Agricultural guidance  
 🏛️ Government schemes  
 💰 Market information  
 🤖 AI-assisted support  
@@ -214,46 +279,53 @@ The platform brings together:
 ### 🧠 Engineering Focus
 
 - AI-assisted farmer support
-- RAG-oriented information retrieval
+- RAG-oriented retrieval concepts
 - REST API integration
-- Multilingual user experience
+- Information aggregation
 - Automation workflows
-- Real-world information aggregation
+- Accessibility-first thinking
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 **HTML • CSS • JavaScript • React • Node.js • MySQL • REST APIs • n8n • AI / RAG Concepts**
 
 ---
 
-## 🧩 Algorithmic Learning Path Generator
+# 🧩 Algorithmic Learning Path Generator
 
-**Turning scattered developer content into structured learning journeys.**
+### `AI + Graph Algorithms + Developer Education`
 
-A system designed to process learning resources from sources such as **YouTube, GitHub, PDFs, and blogs**, extract concepts, understand their dependencies, and generate a structured learning path.
+A system created around a problem many developers experience:
 
-### ⚙️ Core Engineering
+> **There is too much learning content — but very little guidance about what should come first.**
+
+The system processes developer resources from sources such as:
+
+`YouTube • GitHub • PDFs • Blogs`
+
+and attempts to transform scattered information into a **structured, prerequisite-aware learning journey**.
+
+### ⚙️ Engineering Concepts
 
 - 📚 Unstructured content processing
 - 🧠 Concept extraction
-- 🔗 Prerequisite dependency mapping
-- 🌐 Knowledge graph / DAG-based modeling
+- 🔗 Dependency mapping
+- 🌐 DAG-based knowledge modeling
 - 🔀 Topological ordering
-- 🔎 BFS-based traversal
-- 📈 Personalized learning roadmap generation
+- 🔎 BFS traversal
+- 📈 Learning roadmap generation
 
 ### 🏆 Achievement
 
 **🥇 Smart ABES Hackathon 2.0 — Top 30 Finalist**
 
-> **Instead of asking learners to find the right order —**
-> **the system tries to discover the order for them.**
+> **From scattered resources → structured learning paths.**
 
 ---
 
-## 🎙️ AI-Based Voice Detection System
+# 🎙️ AI-Based Voice Detection System
 
-An AI-focused prototype exploring the detection of **synthetic / AI-generated speech** through an integrated analysis workflow.
+An AI-focused prototype exploring the challenge of identifying **synthetic / AI-generated speech**.
 
 ### 🔍 Focus Areas
 
@@ -269,190 +341,49 @@ An AI-focused prototype exploring the detection of **synthetic / AI-generated sp
 
 ---
 
-## 🌐 Personal Portfolio
+# 🌐 Personal Portfolio
 
-A responsive developer portfolio designed around a recruiter-first experience — showcasing projects, technical skills, achievements, and competitive programming progress.
+A responsive developer portfolio designed around a **recruiter-first presentation** of projects, skills, achievements, and technical interests.
 
 **HTML • CSS • JavaScript • Responsive UI**
 
 ---
 
-## 📱 Android Application
+# 📱 Android Application
 
-An Android application developed with a focus on structured navigation, reusable components, and a clean user experience.
+An Android application developed around structured navigation, reusable components, and clean interaction patterns.
 
 **Kotlin • XML • Android Studio**
 
 ---
 
-# 🏆 Hackathons & Buildathons
+# 🏆 Hackathons & Competitive Milestones
 
-> **I don't just participate in hackathons. I use them as compressed engineering environments.**
-
-Every event brings a different constraint:
-
-`Limited Time` → `Unclear Requirements` → `Rapid Learning` → `Team Collaboration` → `Working Prototype`
+> **I treat hackathons as compressed engineering environments.**
+>
+> Limited time. Ambiguous requirements. Rapid learning. Team collaboration. Working prototype.
 
 ---
 
 ## 🌸 Women Who Master Hackathon
 
-### **Zonal Round Participant**
+### 🏅 Zonal Round Participant
 
-One of the strongest recent milestones in my hackathon journey.
+Cleared **Round 1 from approximately 1 lakh applications**, advancing into the **Top 2,500 participants** and earning a place in the **Zonal Round**.
 
-Cleared **Round 1 from approximately 1 lakh applications**, advancing into the **Top 2500 participants** and earning a place in the **Zonal Round**.
+During the hackathon journey, built **HerCareer Navigator**, an AI-powered career navigation experience using **AWS PartyRock**.
 
-During the hackathon journey, worked on **HerCareer Navigator**, an AI-powered career navigation experience built using **AWS PartyRock**.
-
-### 🏅 Milestone
-
-**~100,000 Applications → Top 2,500 → Zonal Round**
-
-### 🛠️ Built With
-
-**AWS PartyRock • Generative AI • Prompt Engineering • AI Application Design**
-
-> **From a pool of ~1 lakh applicants to the Zonal Round.**
->
-> **Proof that ideas become opportunities when you keep building.**
-
----
-
-## ⚡ VICodathon
-
-### **48-Hour Hackathon**
-
-Built the **AI Interview Agent** during a fast-paced 48-hour development sprint.
-
-The project focused on creating an AI interviewer capable of adapting questions to a candidate's learning journey and maintaining conversational context.
-
-### 🚀 What we built
-
-**Personalized Technical Interview → Adaptive Follow-ups → Context → AI Evaluation → Feedback**
-
-### 🛠️ Stack
-
-**Next.js • React • Tailwind CSS • Python • FastAPI • AI/LLM Workflows**
-
-> **48 hours to go from problem statement → architecture → implementation → working prototype.**
-
----
-
-## 🥇 Smart ABES Hackathon 2.0
-
-Built an **Algorithmic Learning Path Generator from Unstructured Developer Content**.
-
-The system processed **500+ learning resources** and explored how AI + algorithms could transform scattered developer content into prerequisite-aware learning roadmaps.
-
-### 🏆 Achievement
-
-**Top 30 Finalist**
-
-### 🧠 Core Algorithms
-
-**Kahn's Algorithm • BFS • DAG-based Dependency Mapping**
-
----
-
-## ✨ AI Impact Buildathon
-
-Developed an **AI-based Voice Detection System** focused on identifying synthetic versus human-generated speech.
-
-### 🏆 Achievement
-
-**Accepted Solution**
-
----
-
-## 🤖 HCL GUVI Hackathon
-
-Built an **AI chatbot** focused on intelligent interaction and automated query resolution.
-
-### 🧠 Focus
-
-**Conversational AI • Automation • Intelligent Query Handling**
-
----
-
-# 📊 My Builder Timeline
+### 📈 The Journey
 
 ```text
-🌾 Real-World Web Development
+~100,000 Applications
         ↓
-🤖 AI & Automation Experiments
+Round 1 Cleared
         ↓
-🧩 Algorithmic Problem Solving
+Top 2,500
         ↓
-🏆 Hackathon Prototypes
+Zonal Round
         ↓
-🎙️ AI Interview Agent
+HerCareer Navigator
         ↓
-🌸 Women Who Master — Top 2500
-        ↓
-🧠 MindWeave — AI Knowledge OS
-        ↓
-🚀 Building what comes next...
-
----
-
-
-## 🧩 Problem Solving & Learning Arena
-
-Beyond projects, I actively invest in the part of engineering that doesn’t always announce itself through flashy interfaces — **problem solving, algorithmic depth, experimentation, and the discipline of getting better consistently**.
-
-- **Data Structures & Algorithms**
-- **competitive programming**
-- **machine learning practice and experimentation**
-- strengthening **logic, optimization, and code quality**
-- learning how to think in systems, not just syntax
-
-### 🌍 Platforms I Practice On
-
-<p align="left">
-  <a href="https://leetcode.com/u/khushigarg11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/khushigarg05"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/gargkhushi0511"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/khushigarg06"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/khushigarg11"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
-
----
-
-## 🛰️ Current Orbit
-
-Right now, most of my energy is going into the kind of work that compounds quietly but changes how I build over time:
-
-- building **AI-backed and full-stack projects** that feel closer to real products than classroom submissions  
-- getting stronger at **graphs, problem solving, and competitive programming consistency**  
-- exploring how **retrieval, automation, and developer-focused AI systems** can be made more practical  
-- turning hackathon prototypes into **cleaner, better-documented, and more production-minded builds**
-
-### 🔭 On My Radar
-- RAG-flavored applications and retrieval pipelines  
-- graph-driven systems and prerequisite modeling  
-- full-stack product builds with stronger backend depth  
-- cleaner documentation, architecture thinking, and deployable projects  
-
----
-
-## 🌐 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/khushi-garg-4873a2378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gargkhushi05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/khushigarg05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ✨ Profile Philosophy
-
-I don’t want this GitHub to be a storage room of half-finished files and forgotten experiments.  
-I want it to reflect **how I think, how I build, and how I’m growing** — through meaningful projects, sharper problem solving, and systems designed with intent.
+AWS PartyRock
