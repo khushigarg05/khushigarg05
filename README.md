@@ -36,9 +36,9 @@
 
 I’m **Khushi Garg** — a Computer Science student who enjoys building **AI-powered applications, problem-solving systems, and practical software that feels purposeful rather than performative**.
 
-My work sits at the intersection of **development, DSA, and applied AI** — from building an **AI-powered knowledge workspace** and a **prerequisite-aware learning path generator**, to developing **AI interview and career guidance systems** through different technology challenges and buildathons.
+My work sits at the intersection of **development, DSA, and applied AI** — from building an **AI-powered knowledge workspace** and a **prerequisite-aware learning path generator**, to developing **AI interview, career guidance, voice analysis, and multi-agent systems**.
 
-I enjoy taking an idea from **problem → architecture → implementation → working prototype** and continuously improving the depth behind what I build.
+I enjoy taking an idea from **problem → architecture → implementation → working prototype** and continuously improving the engineering depth behind what I build.
 
 I’m not interested in treating GitHub like a storage room for random code.
 I want it to reflect **clarity, execution, experimentation, and meaningful engineering.**
@@ -48,10 +48,10 @@ I want it to reflect **clarity, execution, experimentation, and meaningful engin
 ## ⚔️ What I’m Building Around
 
 * 🧠 **AI-backed applications** using LLMs, RAG, embeddings, retrieval, and automation
-* 💻 **Web & full-stack development** focused on usability, structure, and real-world utility
+* 💻 **Web & full-stack development** focused on usability and real-world utility
 * 🧩 **Data Structures & Algorithms** to strengthen logic, optimization, and system thinking
+* 🤖 **AI agents & orchestration** for solving complex workflows
 * 🚀 **Hackathon-grade products** that turn real-world problems into functional prototypes
-* 🔬 **Continuous experimentation** with emerging AI and developer technologies
 
 ---
 
@@ -60,8 +60,8 @@ I want it to reflect **clarity, execution, experimentation, and meaningful engin
 <p align="center">
   <img src="https://img.shields.io/badge/Applied%20AI-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Projects-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon%20Builds-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ I want it to reflect **clarity, execution, experimentation, and meaningful engin
 
 ---
 
-## 🚀 Signature Work
+# 🚀 Signature Work
 
 ### 🧠 MindWeave — AI Knowledge OS
 
@@ -118,14 +118,14 @@ An AI-powered knowledge workspace that transforms scattered documents into an **
 
 Users can upload PDFs, search their knowledge semantically, and ask natural-language questions through a **RAG-powered AI chat system**.
 
-**Core engineering ideas**
+**Core engineering**
 
-* 📄 Document processing and chunking
-* 🧠 Embeddings and semantic search
+* 📄 Document processing & chunking
+* 🧠 Embeddings & semantic search
 * 🔎 Qdrant vector database
 * 🤖 RAG pipeline with Groq LLM
 * 💬 Context-aware AI chat
-* ⚡ Modern Next.js knowledge workspace
+* ⚡ Next.js knowledge workspace
 
 **Built with:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Qdrant, Groq, Hugging Face
 
@@ -135,7 +135,7 @@ Users can upload PDFs, search their knowledge semantically, and ask natural-lang
 
 An intelligent system that transforms scattered developer resources from **YouTube, GitHub, PDFs, and blogs** into a structured, prerequisite-aware learning roadmap.
 
-**Core engineering ideas**
+**Core engineering**
 
 * Concept extraction from unstructured content
 * DAG-based knowledge modeling
@@ -144,11 +144,28 @@ An intelligent system that transforms scattered developer resources from **YouTu
 
 > **Don’t just find what to learn. Find what to learn first.**
 
+🏆 **Smart ABES Hackathon — Top 30 Finalist**
+
+### ⚖️ Arbitra — Multi-Agent Claim Decision System
+
+A multi-agent AI system designed to solve the **evidence-heavy workflow of warranty claims**.
+
+Arbitra breaks the claim into specialized tasks: one agent analyzes the **product**, another reads the **invoice**, another evaluates the **fault**, and another checks the **warranty**.
+
+**RocketRide acts as the core orchestration layer**, connecting the agents and combining their outputs into a unified decision-support workflow.
+
+The system can explain the reasoning, flag unusual claim patterns, and keep the **final decision with a human manager**.
+
+> **AI analyzes. RocketRide connects. Humans decide.**
+
+🏆 **RocketRide Buildathon — Finalist**
+📍 **SDGI Global University, Ghaziabad**
+
 ### 🎙️ AI Interview Agent
 
 An AI-driven interview platform designed to simulate a structured interview experience through **dynamic question generation and conversational interaction**.
 
-The system manages the interview flow, generates the next relevant question, and provides an interactive interview experience through a web interface.
+The system manages interview flow, generates relevant follow-up questions, and provides an interactive interview experience through a web interface.
 
 **Built with:** FastAPI, Python, AI/LLM workflows, REST APIs, Vercel
 
@@ -178,73 +195,80 @@ It brings together **government schemes, crop guidance, weather information, mar
 
 **Built with:** HTML, CSS, JavaScript, REST APIs, AI / retrieval concepts
 
+### 🎙️ AI-Based Voice Detection System
+
+A prototype focused on analyzing uploaded audio and identifying whether speech is **AI-generated or human-generated** through an API-integrated workflow.
+
+The project explored:
+
+* 🎧 Audio analysis workflows
+* 🧠 AI-generated vs human speech classification
+* 🔌 API-based integration
+* 🚀 Prototype deployment thinking
+
+✨ **Accepted solution at AI Impact Buildathon**
+
+### 🌐 Personal Portfolio Website
+
+A responsive portfolio website designed to present **projects, skills, achievements, and technical experience** through a cleaner recruiter-facing interface.
+
+**Focus:** Responsive UI • Frontend Development • Personal Branding
+
+### 📱 Android Application
+
+An Android application built with **Kotlin + XML**, focused on structured navigation, reusable components, and smoother user interaction.
+
+**Focus:** Android Development • UI Design • Application Architecture
+
 ---
 
-## 🏆 Hackathons & Tech Events
+# 🏆 Hackathons & Tech Events
 
 I actively participate in **hackathons, buildathons, coding competitions, and technology events** to challenge myself with real-world problems, experiment with new technologies, and turn ideas into working solutions.
 
 ### 🚀 RocketRide Buildathon
 
 🏆 **Finalist**
-📍 **SDGI Global University, Ghaziabad**
+📍 SDGI Global University, Ghaziabad
 
-Built **Arbitra** using RocketRide AI, turning a real-world problem statement into a functional software prototype within the buildathon.
-
----
+Built **Arbitra**, a multi-agent warranty claim decision-support system using **RocketRide as the orchestration layer**.
 
 ### 🧠 Smart ABES Hackathon — SAH 2.0
 
 🏆 **Top 30 Finalist**
 
-Built **CycloPath**, combining concept extraction, knowledge graphs, DAGs, **Kahn’s Algorithm, and BFS** to transform scattered developer resources into prerequisite-aware learning paths.
-
----
+Built **CycloPath**, combining AI-based concept extraction with **DAGs, Kahn’s Algorithm, and BFS** to generate prerequisite-aware learning paths.
 
 ### 👩‍💻 Women Who Master Hackathon — Aspire For Her × Logitech
 
 🎯 **Cleared Round 1 → Zonal Round**
-📍 **Amity University, Noida**
+📍 Amity University, Noida
 
-Built **Her Career Navigator** using **AWS PartyRock**, an AI-assisted career guidance solution designed to help users explore career paths and make informed career decisions.
-
-🔗 **[Live Demo](https://partyrock.aws/u/khushi05/tNuHdqTke/HerCareer-Navigator%253A-Restart-with-Confidence)**
-
----
+Built **Her Career Navigator** using **AWS PartyRock**, an AI-assisted career guidance solution.
 
 ### 🛒 Flipkart GRiD 2.0
 
 🎯 **Cleared Round 1**
 
-Participated in Flipkart’s industry-oriented technology challenge, solving problem statements under competitive constraints.
-
----
-
-### 🎙️ ViCodeathon — ABTalks
-
-Built an **AI Interview Agent** designed to simulate structured interviews through dynamic question generation and conversational interaction.
-
-**Tech:** FastAPI • Python • AI/LLM • REST APIs
-
----
+Participated in Flipkart’s industry-oriented technology challenge and progressed through the first round.
 
 ### 🤖 AI Impact Buildathon — HCL GUVI
 
-🎯 **Solution Accepted**
+✨ **Solution Accepted**
 
-Participated in the **AI Impact Buildathon by HCL GUVI at AI Impact Summit 2026**, where our AI-based solution was **accepted during evaluation**.
+Participated in the **AI Impact Buildathon by HCL GUVI at AI Impact Summit 2026**, where our **AI-based voice detection solution was accepted during evaluation**.
 
-The experience focused on applying AI to a practical problem and developing a solution around real-world impact.
+### 🎙️ ViCodeathon — ABTalks
 
----
+Built an **AI Interview Agent** focused on dynamic interview flow and conversational question generation.
 
 ### 🎨 Adobe University Hackathon
 
-Participated in the **Adobe University Hackathon**, exploring product-oriented problem solving and building solutions around technology-driven challenges.
+Participated in the **Adobe University Hackathon**, exploring technology-driven problem solving and product-oriented development.
 
 ---
 
-## 🧩 Problem Solving & Competitive Programming
+# 🧩 Problem Solving & Competitive Programming
 
 I actively invest in the part of engineering that doesn’t always announce itself through flashy interfaces — **problem solving, algorithmic depth, experimentation, and the discipline of getting better consistently**.
 
@@ -273,16 +297,16 @@ I actively invest in the part of engineering that doesn’t always announce itse
 ### What I Practice
 
 * Data Structures & Algorithms
-* Competitive programming
-* Graph algorithms
-* Machine learning
-* Problem decomposition
-* Optimization and complexity
-* Building systems around algorithms
+* Competitive Programming
+* Graph Algorithms
+* Machine Learning
+* Problem Decomposition
+* Complexity & Optimization
+* System-oriented Problem Solving
 
 ---
 
-## 🛰️ Current Orbit
+# 🛰️ Current Orbit
 
 Right now, I’m focused on becoming stronger at the intersection of **AI, software engineering, and algorithmic problem solving**.
 
@@ -294,7 +318,7 @@ Right now, I’m focused on becoming stronger at the intersection of **AI, softw
 
 ---
 
-## 🌐 Let’s Connect
+# 🌐 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/khushi-garg-4873a2378/">
