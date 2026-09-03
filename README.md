@@ -1,347 +1,505 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Khushi+Garg" alt="Typing SVG" />
-</h1>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3 align="center">⚡ Building AI-backed systems, solving algorithmic puzzles, and turning ambitious ideas into working products.</h3>
+<!--                    KHUSHI GARG                              -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=1100&lines=Computer+Science+Student+%7C+DSA+%7C+Full-Stack+%7C+AI+Applications;From+hackathon+builds+to+problem-solving+systems+%E2%80%94+I+like+code+with+substance.;Building+projects+that+aim+to+be+useful%2C+intentional%2C+and+technically+sound." alt="Typing SVG" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-3★-A855F7?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon%20Finalist-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA%20%26%20Competitive%20Programming-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Applications-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khushi-garg-4873a2378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gargkhushi05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/khushigarg05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/khushigarg11/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:06B6D4,100:EC4899&height=230&section=header&text=KHUSHI%20GARG&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20DSA%20%7C%20FULL%20STACK%20%7C%20BUILDING%20WITH%20PURPOSE&descSize=16&descAlignY=60&animation=twinkling" width="100%"/>
 
----
+<br>
 
-## 🧭 A Little About Me
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Computer+Science+Student;Building+AI-powered+systems;Solving+DSA+%26+competitive+programming;Turning+ideas+into+working+products;AI+%C3%97+Software+Engineering+%C3%97+Problem+Solving" alt="Typing SVG"/>
+</a>
 
-I’m **Khushi Garg** — a Computer Science student who enjoys building **AI-powered applications, problem-solving systems, and practical software that feels purposeful rather than performative**.
+<br><br>
 
-My work sits at the intersection of **development, DSA, and applied AI** — from building an **AI-powered knowledge workspace** and a **prerequisite-aware learning path generator**, to developing **AI interview, career guidance, voice analysis, and multi-agent systems**.
+<a href="https://github.com/khushigarg05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/khushi-garg-4873a2378/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/khushigarg11/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/khushigarg05">
+<img src="https://img.shields.io/badge/CodeChef-3★-A855F7?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-I enjoy taking an idea from **problem → architecture → implementation → working prototype** and continuously improving the engineering depth behind what I build.
+<br><br>
 
-I’m not interested in treating GitHub like a storage room for random code.
-I want it to reflect **clarity, execution, experimentation, and meaningful engineering.**
+<img src="https://komarev.com/ghpvc/?username=khushigarg05&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
+
+</div>
 
 ---
 
-## ⚔️ What I’m Building Around
+<div align="center">
 
-* 🧠 **AI-backed applications** using LLMs, RAG, embeddings, retrieval, and automation
-* 💻 **Web & full-stack development** focused on usability and real-world utility
-* 🧩 **Data Structures & Algorithms** to strengthen logic, optimization, and system thinking
-* 🤖 **AI agents & orchestration** for solving complex workflows
-* 🚀 **Hackathon-grade products** that turn real-world problems into functional prototypes
+## `> whoami`
 
----
+### 👩‍💻 **Khushi Garg**
 
-## ✨ Engineering Themes
+**Computer Science Student • AI Builder • Problem Solver**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Applied%20AI-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+> *I like building things that solve real problems — and understanding the engineering underneath them.*
 
----
+</div>
 
-## 🛠️ Tech Arsenal
+<br>
 
-### 👩‍💻 Languages
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-![C](https://img.shields.io/badge/C-1F2937?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1F2937?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge\&logo=javascript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge\&logo=mysql\&logoColor=white)
+### 🧠 What I Build
 
-### 🌐 Development
+* AI-powered applications
+* RAG & knowledge systems
+* AI agents & orchestration
+* Full-stack web applications
+* DSA-driven systems
+* Hackathon prototypes
+* Practical automation
 
-![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge\&logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge\&logo=node.js\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-1F2937?style=for-the-badge\&logo=fastapi\&logoColor=white)
+</td>
 
-### 🤖 AI / ML / Retrieval
+<td width="50%" valign="top">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1F2937?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge\&logo=numpy\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge\&logo=semanticweb\&logoColor=white)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-1F2937?style=for-the-badge\&logo=openai\&logoColor=white)
+### ⚡ What I Care About
 
-### 🗃️ Databases / Tools
+* Real-world utility
+* Clean architecture
+* Algorithmic thinking
+* Performance & optimization
+* Meaningful AI integration
+* Turning ideas into products
 
-![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-1F2937?style=for-the-badge\&logo=qdrant\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1F2937?style=for-the-badge\&logo=meta\&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1F2937?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge\&logo=postman\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-1F2937?style=for-the-badge\&logo=n8n\&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Signature Work
+# 🧬 Engineering DNA
 
-### 🧠 MindWeave — AI Knowledge OS
+<div align="center">
 
-An AI-powered knowledge workspace that transforms scattered documents into an **intelligent, searchable knowledge space**.
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Competitive%20Programming-F59E0B?style=for-the-badge"/>
 
-Users can upload PDFs, search their knowledge semantically, and ask natural-language questions through a **RAG-powered AI chat system**.
+</div>
 
-**Core engineering**
+<br>
 
-* 📄 Document processing & chunking
-* 🧠 Embeddings & semantic search
-* 🔎 Qdrant vector database
-* 🤖 RAG pipeline with Groq LLM
-* 💬 Context-aware AI chat
-* ⚡ Next.js knowledge workspace
+<div align="center">
 
-**Built with:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Qdrant, Groq, Hugging Face
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nextjs,nodejs,fastapi,mysql,mongodb,git,github&perline=8" />
 
-🔗 **[Live Demo](https://mindweave-p0zyivyd6-ai-interview-agent1.vercel.app/)** · **[GitHub](https://github.com/khushigarg05/MindWeave)**
+</div>
 
-### 🧠 CycloPath — Learning Path Generator
+---
 
-An intelligent system that transforms scattered developer resources from **YouTube, GitHub, PDFs, and blogs** into a structured, prerequisite-aware learning roadmap.
+# 🚀 Featured Builds
 
-**Core engineering**
+> A few projects that represent how I like to think: **problem → system → implementation → impact.**
 
-* Concept extraction from unstructured content
-* DAG-based knowledge modeling
-* Prerequisite mapping
-* **Kahn’s Algorithm + BFS** for optimized learning sequences
+<br>
 
-> **Don’t just find what to learn. Find what to learn first.**
+<table>
+<tr>
 
-🏆 **Smart ABES Hackathon — Top 30 Finalist**
+<td width="50%" valign="top">
 
-### ⚖️ Arbitra — Multi-Agent Claim Decision System
+## 🧠 MindWeave
 
-A multi-agent AI system designed to solve the **evidence-heavy workflow of warranty claims**.
+### AI Knowledge OS
 
-Arbitra breaks the claim into specialized tasks: one agent analyzes the **product**, another reads the **invoice**, another evaluates the **fault**, and another checks the **warranty**.
+Turn scattered documents into an **intelligent, searchable knowledge space**.
 
-**RocketRide acts as the core orchestration layer**, connecting the agents and combining their outputs into a unified decision-support workflow.
+📄 PDF ingestion
+🧠 Embeddings
+🔎 Semantic search
+🤖 RAG
+💬 AI knowledge chat
+📦 Qdrant vector database
 
-The system can explain the reasoning, flag unusual claim patterns, and keep the **final decision with a human manager**.
+**Stack**
+
+`Next.js` `TypeScript` `Node.js` `MongoDB` `Qdrant` `Groq`
+
+<br>
+
+🔗 **[Live Demo](https://mindweave-p0zyivyd6-ai-interview-agent1.vercel.app/)**
+🔗 **[GitHub](https://github.com/khushigarg05/MindWeave)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚖️ Arbitra
+
+### Multi-Agent Claim Intelligence
+
+An AI-powered warranty claim system where specialized agents analyze:
+
+**Product → Invoice → Fault → Warranty**
+
+RocketRide orchestrates the agents and combines their results into a unified decision-support workflow.
 
 > **AI analyzes. RocketRide connects. Humans decide.**
 
-🏆 **RocketRide Buildathon — Finalist**
-📍 **SDGI Global University, Ghaziabad**
+🏆 **RocketRide Buildathon Finalist**
 
-### 🎙️ AI Interview Agent
-
-An AI-driven interview platform designed to simulate a structured interview experience through **dynamic question generation and conversational interaction**.
-
-The system manages interview flow, generates relevant follow-up questions, and provides an interactive interview experience through a web interface.
-
-**Built with:** FastAPI, Python, AI/LLM workflows, REST APIs, Vercel
-
-### 🧭 Her Career Navigator
-
-An AI-assisted career guidance solution designed to help users **explore career options, discover suitable paths, and make informed career decisions**.
-
-Built using **AWS PartyRock**, the project explores how generative AI can create an accessible, conversational career-navigation experience.
-
-**Built with:** AWS PartyRock • Generative AI
-
-🔗 **[Live Demo](https://partyrock.aws/u/khushi05/tNuHdqTke/HerCareer-Navigator%253A-Restart-with-Confidence)**
-
-### 🌾 AgriAssist — Farmer & Rural Development Portal
-
-An **AI-assisted agricultural support platform** designed to make rural and agricultural information more accessible, actionable, and less fragmented.
-
-It brings together **government schemes, crop guidance, weather information, market prices, and farmer-focused resources** into one unified experience.
-
-**Core ideas**
-
-* 🤖 Chatbot-based assistance
-* 🌦️ Weather-aware agricultural information
-* 🏛️ Government scheme discovery
-* 💰 Market-price information
-* 🔎 AI-assisted retrieval concepts
-
-**Built with:** HTML, CSS, JavaScript, REST APIs, AI / retrieval concepts
-
-### 🎙️ AI-Based Voice Detection System
-
-A prototype focused on analyzing uploaded audio and identifying whether speech is **AI-generated or human-generated** through an API-integrated workflow.
-
-The project explored:
-
-* 🎧 Audio analysis workflows
-* 🧠 AI-generated vs human speech classification
-* 🔌 API-based integration
-* 🚀 Prototype deployment thinking
-
-✨ **Accepted solution at AI Impact Buildathon**
-
-### 🌐 Personal Portfolio Website
-
-A responsive portfolio website designed to present **projects, skills, achievements, and technical experience** through a cleaner recruiter-facing interface.
-
-**Focus:** Responsive UI • Frontend Development • Personal Branding
-
-### 📱 Android Application
-
-An Android application built with **Kotlin + XML**, focused on structured navigation, reusable components, and smoother user interaction.
-
-**Focus:** Android Development • UI Design • Application Architecture
-
----
-
-# 🏆 Hackathons & Tech Events
-
-I actively participate in **hackathons, buildathons, coding competitions, and technology events** to challenge myself with real-world problems, experiment with new technologies, and turn ideas into working solutions.
-
-### 🚀 RocketRide Buildathon
-
-🏆 **Finalist**
 📍 SDGI Global University, Ghaziabad
 
-Built **Arbitra**, a multi-agent warranty claim decision-support system using **RocketRide as the orchestration layer**.
+</td>
 
-### 🧠 Smart ABES Hackathon — SAH 2.0
+</tr>
 
-🏆 **Top 30 Finalist**
+<tr>
 
-Built **CycloPath**, combining AI-based concept extraction with **DAGs, Kahn’s Algorithm, and BFS** to generate prerequisite-aware learning paths.
+<td width="50%" valign="top">
 
-### 👩‍💻 Women Who Master Hackathon — Aspire For Her × Logitech
+## 🧠 CycloPath
 
-🎯 **Cleared Round 1 → Zonal Round**
-📍 Amity University, Noida
+### Learning Path Generator
 
-Built **Her Career Navigator** using **AWS PartyRock**, an AI-assisted career guidance solution.
+Transforms scattered developer resources from:
 
-### 🛒 Flipkart GRiD 2.0
+`YouTube + GitHub + PDFs + Blogs`
 
-🎯 **Cleared Round 1**
+into a structured, prerequisite-aware learning roadmap.
 
-Participated in Flipkart’s industry-oriented technology challenge and progressed through the first round.
+**Core engineering**
 
-### 🤖 AI Impact Buildathon — HCL GUVI
+`DAG` → `Kahn's Algorithm` → `BFS`
 
-✨ **Solution Accepted**
+> **Don't just find what to learn. Find what to learn first.**
 
-Participated in the **AI Impact Buildathon by HCL GUVI at AI Impact Summit 2026**, where our **AI-based voice detection solution was accepted during evaluation**.
+🏆 **SAH 2.0 — Top 30 Finalist**
 
-### 🎙️ ViCodeathon — ABTalks
+</td>
 
-Built an **AI Interview Agent** focused on dynamic interview flow and conversational question generation.
+<td width="50%" valign="top">
 
-### 🎨 Adobe University Hackathon
+## 🎙️ AI Interview Agent
 
-Participated in the **Adobe University Hackathon**, exploring technology-driven problem solving and product-oriented development.
+### Intelligent Interview Experience
+
+An AI-powered interview system designed around dynamic question generation and structured interview flow.
+
+* Dynamic questions
+* Conversational interaction
+* Interview flow management
+* AI-assisted experience
+* REST API architecture
+
+**Stack**
+
+`FastAPI` `Python` `AI/LLM` `REST APIs`
+
+🔗 **[Live Demo](https://ai-interview-agent-f1iema3e7-ai-interview-agent1.vercel.app/setup)**
+🔗 **[GitHub](https://github.com/khushigarg05/AI-Interview-Agent)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧭 Her Career Navigator
+
+An AI-assisted career guidance solution designed to help users explore career options and discover suitable career paths.
+
+Built using **AWS PartyRock** and Generative AI.
+
+🔗 **[Open Project](https://partyrock.aws/u/khushi05/tNuHdqTke/HerCareer-Navigator%253A-Restart-with-Confidence)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌾 AgriAssist
+
+### Farmer & Rural Development Portal
+
+An AI-assisted agricultural support platform bringing together:
+
+🌱 Crop guidance
+🌦️ Weather information
+🏛️ Government schemes
+💰 Market information
+🤖 Chatbot assistance
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `REST APIs` `AI`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🧩 Problem Solving & Competitive Programming
+# 🔬 More Builds
 
-I actively invest in the part of engineering that doesn’t always announce itself through flashy interfaces — **problem solving, algorithmic depth, experimentation, and the discipline of getting better consistently**.
+<table>
+<tr>
+<td width="33%" align="center">
 
-### ⭐ Competitive Programming
+### 🎙️ Voice Detection
 
-**CodeChef — 3★**
+AI-generated vs human speech analysis prototype.
 
-<p align="left">
-  <a href="https://www.codechef.com/users/khushigarg05">
-    <img src="https://img.shields.io/badge/CodeChef-3★-A855F7?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/khushigarg11/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/gargkhushi0511">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/khushigarg06">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/khushigarg11">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+**AI • Audio • Classification**
+
+✨ Accepted at **AI Impact Buildathon**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Portfolio
+
+Responsive developer portfolio focused on projects, achievements and personal branding.
+
+**HTML • CSS • JavaScript**
+
+</td>
+
+<td width="33%" align="center">
+
+### 📱 Android App
+
+Android application focused on structured navigation, reusable components and smooth interaction.
+
+**Kotlin • XML**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 Buildathon Journey
+
+<div align="center">
+
+### `IDEA → BUILD → DEMO → LEARN → BUILD AGAIN`
+
+</div>
+
+<br>
+
+| Event                                                  |         Journey        | What I Built                                          |
+| :----------------------------------------------------- | :--------------------: | :---------------------------------------------------- |
+| 🚀 **RocketRide Buildathon**                           |     🏆 **Finalist**    | **Arbitra** — Multi-agent warranty claim intelligence |
+| 🧠 **Smart ABES Hackathon 2.0**                        | 🏆 **Top 30 Finalist** | **CycloPath** — AI + DAG-based learning paths         |
+| 👩‍💻 **Women Who Master — Aspire For Her × Logitech** |   🎯 **Zonal Round**   | **Her Career Navigator** using AWS PartyRock          |
+| 🤖 **AI Impact Buildathon — HCL GUVI**                 |     ✨ **Accepted**     | AI-based Voice Detection System                       |
+| 🛒 **Flipkart GRiD 2.0**                               | 🎯 **Round 1 Cleared** | Industry-oriented technology challenge                |
+| 🎨 **Adobe University Hackathon**                      |   💻 **Participant**   | Technology-driven problem solving                     |
+| 🎙️ **ViCodeathon — ABTalks**                          |   💻 **Participant**   | AI Interview Agent                                    |
+
+<br>
+
+<div align="center">
+
+### 👩‍💻 Women Who Master
+
+**Round 1 → Zonal Round → Amity University, Noida**
+
+Built **Her Career Navigator** with **AWS PartyRock**
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushigarg05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigarg05&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushigarg05&theme=dark&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=EC4899&currStreakLabel=06B6D4" />
+
+</div>
+
+---
+
+# 🧩 Problem Solving
+
+<div align="center">
+
+### ⭐ CodeChef — **3★**
+
+</div>
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/khushigarg05">
+<img src="https://img.shields.io/badge/CodeChef-3★-A855F7?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/khushigarg11/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/gargkhushi0511">
+<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/khushigarg06">
+<img src="https://img.shields.io/badge/Kaggle-ML%20Practice-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
 </p>
 
-### What I Practice
+<br>
 
-* Data Structures & Algorithms
-* Competitive Programming
-* Graph Algorithms
-* Machine Learning
-* Problem Decomposition
-* Complexity & Optimization
-* System-oriented Problem Solving
+<div align="center">
+
+**DSA • Graphs • Algorithms • Complexity • Optimization • Competitive Programming**
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript&perline=6"/>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,fastapi&perline=6"/>
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=6"/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,docker&perline=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`RAG` • `LLMs` • `Embeddings` • `Qdrant` • `FAISS` • `ChromaDB` • `n8n`
+
+</div>
 
 ---
 
 # 🛰️ Current Orbit
 
-Right now, I’m focused on becoming stronger at the intersection of **AI, software engineering, and algorithmic problem solving**.
-
-* 🧠 Building AI-backed and full-stack applications
-* 🧩 Strengthening DSA and competitive programming
-* 🔎 Exploring RAG, retrieval, automation, and AI agents
-* 🏗️ Improving backend and system-design depth
-* 🚀 Turning prototypes into cleaner, more production-minded projects
-
----
-
-# 🌐 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/khushi-garg-4873a2378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gargkhushi05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/khushigarg05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🧠 Building       AI-backed & full-stack applications   │
+│                                                          │
+│  🧩 Learning       DSA • Graphs • System Design          │
+│                                                          │
+│  🤖 Exploring      RAG • AI Agents • Automation          │
+│                                                          │
+│  🏗️ Improving      Backend • Architecture • APIs         │
+│                                                          │
+│  🚀 Goal           Turn prototypes into real products     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## ✨ Profile Philosophy
+# 🌌 Contribution Universe
 
-I don’t want this GitHub to be a storage room of half-finished files and forgotten experiments.
+<div align="center">
 
-I want it to reflect **how I think, how I build, and how I’m growing** — through meaningful projects, sharper problem solving, experimentation, and systems designed with intent.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushigarg05&bg_color=0D1117&color=A78BFA&line=06B6D4&point=EC4899&area=true&hide_border=true" width="100%"/>
 
-<p align="center">
+</div>
 
-### ⚡ Build with purpose. Solve with depth. Keep improving.
+<br>
 
-</p>
+<div align="center">
+
+### 🐍 Contribution Trail
+
+<img src="https://raw.githubusercontent.com/khushigarg05/khushigarg05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 💭 How I Think
+
+<div align="center">
+
+> **Don't build because you can.**
+>
+> **Build because it solves something.**
+>
+> **Don't use AI because it's trending.**
+>
+> **Use it where intelligence actually matters.**
+>
+> **Don't learn DSA only for contests.**
+>
+> **Use it to build better systems.**
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/khushi-garg-4873a2378/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gargkhushi05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/khushigarg05">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ✦ BUILD WITH PURPOSE · SOLVE WITH DEPTH · KEEP IMPROVING ✦
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:06B6D4&height=120&section=footer"/>
+
+</div>
