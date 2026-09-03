@@ -430,11 +430,6 @@ Android application focused on structured navigation, reusable components and sm
 
 # 🌌 Contribution Universe
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushigarg05&bg_color=0D1117&color=A78BFA&line=06B6D4&point=EC4899&area=true&hide_border=true" width="100%"/>
-
-</div>
 
 <br>
 
