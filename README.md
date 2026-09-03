@@ -36,19 +36,22 @@
 
 I’m **Khushi Garg** — a Computer Science student who enjoys building **AI-powered applications, problem-solving systems, and practical software that feels purposeful rather than performative**.
 
-My work sits at the intersection of **development, DSA, and applied AI** — from building an **AI-assisted agri-support platform** and a **prerequisite-aware learning path generator**, to developing **AI interview systems and AI-powered career tools** through hackathons and buildathons.
+My work sits at the intersection of **development, DSA, and applied AI** — from building an **AI-powered knowledge workspace** and a **prerequisite-aware learning path generator**, to developing **AI interview and career guidance systems** through different technology challenges and buildathons.
+
+I enjoy taking an idea from **problem → architecture → implementation → working prototype** and continuously improving the depth behind what I build.
 
 I’m not interested in treating GitHub like a storage room for random code.
-I want it to reflect **clarity, execution, and projects that say something real about how I build.**
+I want it to reflect **clarity, execution, experimentation, and meaningful engineering.**
 
 ---
 
 ## ⚔️ What I’m Building Around
 
-* 🧠 **AI-backed applications** shaped by LLM workflows, retrieval ideas, and practical automation
-* 💻 **Web and product-oriented development** focused on usability, structure, and real-world utility
-* 🧩 **Data Structures & Algorithms** to strengthen problem-solving depth and system thinking
-* 🚀 **Hackathon-grade builds** that move from raw ideas to working prototypes with intent
+* 🧠 **AI-backed applications** using LLMs, RAG, embeddings, retrieval, and automation
+* 💻 **Web & full-stack development** focused on usability, structure, and real-world utility
+* 🧩 **Data Structures & Algorithms** to strengthen logic, optimization, and system thinking
+* 🚀 **Hackathon-grade products** that turn real-world problems into functional prototypes
+* 🔬 **Continuous experimentation** with emerging AI and developer technologies
 
 ---
 
@@ -79,6 +82,7 @@ I want it to reflect **clarity, execution, and projects that say something real 
 ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1F2937?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
@@ -89,41 +93,43 @@ I want it to reflect **clarity, execution, and projects that say something real 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge\&logo=numpy\&logoColor=white)
-![RAG Concepts](https://img.shields.io/badge/RAG%20Concepts-1F2937?style=for-the-badge\&logo=semanticweb\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge\&logo=semanticweb\&logoColor=white)
 ![LLM Applications](https://img.shields.io/badge/LLM%20Applications-1F2937?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ### 🗃️ Databases / Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-1F2937?style=for-the-badge\&logo=qdrant\&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-1F2937?style=for-the-badge\&logo=meta\&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1F2937?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge\&logo=postman\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-1F2937?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-1F2937?style=for-the-badge\&logo=n8n\&logoColor=white)
 
 ---
 
 ## 🚀 Signature Work
 
-### 🌾 Farmer & Rural Development Portal
+### 🧠 MindWeave — AI Knowledge OS
 
-An **AI-assisted agri-support platform** designed to make rural and agricultural information more accessible, actionable, and less fragmented.
+An AI-powered knowledge workspace that transforms scattered documents into an **intelligent, searchable knowledge space**.
 
-It brings together **government schemes, crop guidance, weather context, market prices, and farmer-focused support** into one unified experience.
+Users can upload PDFs, search their knowledge semantically, and ask natural-language questions through a **RAG-powered AI chat system**.
 
-**Core ideas**
+**Core engineering ideas**
 
-* 🤖 Chatbot-based assistance for farmer-side accessibility
-* 🌦️ Weather-aware agricultural information
-* 🏛️ Centralized government scheme discovery
-* 💰 Market-price information
-* 🔎 AI-assisted retrieval concepts for contextual guidance
+* 📄 Document processing and chunking
+* 🧠 Embeddings and semantic search
+* 🔎 Qdrant vector database
+* 🤖 RAG pipeline with Groq LLM
+* 💬 Context-aware AI chat
+* ⚡ Modern Next.js knowledge workspace
 
-**Built with:** HTML, CSS, JavaScript, REST APIs, AI / retrieval concepts
+**Built with:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Qdrant, Groq, Hugging Face
 
----
+🔗 **[Live Demo](https://mindweave-p0zyivyd6-ai-interview-agent1.vercel.app/)** · **[GitHub](https://github.com/khushigarg05/MindWeave)**
 
 ### 🧠 CycloPath — Learning Path Generator
 
@@ -136,85 +142,111 @@ An intelligent system that transforms scattered developer resources from **YouTu
 * Prerequisite mapping
 * **Kahn’s Algorithm + BFS** for optimized learning sequences
 
-> **Don't just find what to learn. Find what to learn first.**
-
----
+> **Don’t just find what to learn. Find what to learn first.**
 
 ### 🎙️ AI Interview Agent
 
-An AI-driven interview platform designed to simulate a structured interview experience through dynamic question generation and conversational interaction.
+An AI-driven interview platform designed to simulate a structured interview experience through **dynamic question generation and conversational interaction**.
 
-The system can initiate an interview, generate the **next relevant question based on the interview flow**, and provide an interactive experience through a web interface.
+The system manages the interview flow, generates the next relevant question, and provides an interactive interview experience through a web interface.
 
 **Built with:** FastAPI, Python, AI/LLM workflows, REST APIs, Vercel
 
----
-
 ### 🧭 Her Career Navigator
 
-An AI-assisted career guidance solution built during the **Women Who Master Hackathon**, designed to help users navigate career options, discover suitable paths, and make more informed career decisions.
+An AI-assisted career guidance solution designed to help users **explore career options, discover suitable paths, and make informed career decisions**.
 
-Built using **AWS PartyRock**, the project explored how generative AI can be used to create an accessible, conversational career-navigation experience.
+Built using **AWS PartyRock**, the project explores how generative AI can create an accessible, conversational career-navigation experience.
 
----
+**Built with:** AWS PartyRock • Generative AI
 
-## 🏆 Hackathons & Buildathons
+🔗 **[Live Demo](https://partyrock.aws/u/khushi05/tNuHdqTke/HerCareer-Navigator%253A-Restart-with-Confidence)**
 
-### 👩‍💻 Women Who Master Hackathon — Aspire For Her × Logitech
+### 🌾 AgriAssist — Farmer & Rural Development Portal
 
-**Cleared Round 1 → Reached Zonal Round**
+An **AI-assisted agricultural support platform** designed to make rural and agricultural information more accessible, actionable, and less fragmented.
 
-📍 **Amity University, Noida**
+It brings together **government schemes, crop guidance, weather information, market prices, and farmer-focused resources** into one unified experience.
 
-Built **Her Career Navigator**, an AI-assisted career guidance solution using **AWS PartyRock** to help users explore career paths and make more informed career decisions.
+**Core ideas**
 
----
+* 🤖 Chatbot-based assistance
+* 🌦️ Weather-aware agricultural information
+* 🏛️ Government scheme discovery
+* 💰 Market-price information
+* 🔎 AI-assisted retrieval concepts
 
-### 🎙️ ViCodeathon — ABTalks
-
-Participated in ViCodeathon and built an **AI Interview Agent** focused on creating an interactive, structured interview experience.
-
-The system used an AI-driven workflow to conduct interviews, dynamically generate questions, and provide a conversational interview interface.
-
-**Tech:** FastAPI • Python • AI/LLM • REST APIs
+**Built with:** HTML, CSS, JavaScript, REST APIs, AI / retrieval concepts
 
 ---
+
+## 🏆 Hackathons & Tech Events
+
+I actively participate in **hackathons, buildathons, coding competitions, and technology events** to challenge myself with real-world problems, experiment with new technologies, and turn ideas into working solutions.
 
 ### 🚀 RocketRide Buildathon
 
 🏆 **Finalist**
-
 📍 **SDGI Global University, Ghaziabad**
 
-Built **Arbitra** using **RocketRide AI** — a software solution developed around the given real-world problem statement during the buildathon.
-
-The project focused on rapidly turning an idea into a functional prototype using AI-assisted development and product engineering.
+Built **Arbitra** using RocketRide AI, turning a real-world problem statement into a functional software prototype within the buildathon.
 
 ---
 
-### 🏢 Smart ABES Hackathon — SAH 2.0
+### 🧠 Smart ABES Hackathon — SAH 2.0
 
 🏆 **Top 30 Finalist**
 
-Built **CycloPath**, an AI-assisted learning path generation system that combines **concept extraction, knowledge graphs, DAGs, Kahn's Algorithm, and BFS** to transform scattered developer resources into prerequisite-aware learning paths.
+Built **CycloPath**, combining concept extraction, knowledge graphs, DAGs, **Kahn’s Algorithm, and BFS** to transform scattered developer resources into prerequisite-aware learning paths.
+
+---
+
+### 👩‍💻 Women Who Master Hackathon — Aspire For Her × Logitech
+
+🎯 **Cleared Round 1 → Zonal Round**
+📍 **Amity University, Noida**
+
+Built **Her Career Navigator** using **AWS PartyRock**, an AI-assisted career guidance solution designed to help users explore career paths and make informed career decisions.
+
+🔗 **[Live Demo](https://partyrock.aws/u/khushi05/tNuHdqTke/HerCareer-Navigator%253A-Restart-with-Confidence)**
 
 ---
 
 ### 🛒 Flipkart GRiD 2.0
 
-Participated in **Flipkart GRiD 2.0**, gaining experience in solving industry-oriented problem statements under competitive constraints.
+🎯 **Cleared Round 1**
+
+Participated in Flipkart’s industry-oriented technology challenge, solving problem statements under competitive constraints.
+
+---
+
+### 🎙️ ViCodeathon — ABTalks
+
+Built an **AI Interview Agent** designed to simulate structured interviews through dynamic question generation and conversational interaction.
+
+**Tech:** FastAPI • Python • AI/LLM • REST APIs
+
+---
+
+### 🤖 AI Impact Buildathon — HCL GUVI
+
+🎯 **Solution Accepted**
+
+Participated in the **AI Impact Buildathon by HCL GUVI at AI Impact Summit 2026**, where our AI-based solution was **accepted during evaluation**.
+
+The experience focused on applying AI to a practical problem and developing a solution around real-world impact.
 
 ---
 
 ### 🎨 Adobe University Hackathon
 
-Participated in the **Adobe University Hackathon**, exploring product-focused problem solving and building solutions around real-world technology challenges.
+Participated in the **Adobe University Hackathon**, exploring product-oriented problem solving and building solutions around technology-driven challenges.
 
 ---
 
 ## 🧩 Problem Solving & Competitive Programming
 
-I actively invest in the part of engineering that doesn't always announce itself through flashy interfaces — **problem solving, algorithmic depth, experimentation, and the discipline of getting better consistently**.
+I actively invest in the part of engineering that doesn’t always announce itself through flashy interfaces — **problem solving, algorithmic depth, experimentation, and the discipline of getting better consistently**.
 
 ### ⭐ Competitive Programming
 
@@ -252,7 +284,7 @@ I actively invest in the part of engineering that doesn't always announce itself
 
 ## 🛰️ Current Orbit
 
-Right now, I'm focused on becoming stronger at the intersection of **AI, software engineering, and algorithmic problem solving**.
+Right now, I’m focused on becoming stronger at the intersection of **AI, software engineering, and algorithmic problem solving**.
 
 * 🧠 Building AI-backed and full-stack applications
 * 🧩 Strengthening DSA and competitive programming
@@ -262,7 +294,7 @@ Right now, I'm focused on becoming stronger at the intersection of **AI, softwar
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/khushi-garg-4873a2378/">
@@ -280,9 +312,9 @@ Right now, I'm focused on becoming stronger at the intersection of **AI, softwar
 
 ## ✨ Profile Philosophy
 
-I don't want this GitHub to be a storage room of half-finished files and forgotten experiments.
+I don’t want this GitHub to be a storage room of half-finished files and forgotten experiments.
 
-I want it to reflect **how I think, how I build, and how I'm growing** — through meaningful projects, sharper problem solving, experimentation, and systems designed with intent.
+I want it to reflect **how I think, how I build, and how I’m growing** — through meaningful projects, sharper problem solving, experimentation, and systems designed with intent.
 
 <p align="center">
 
