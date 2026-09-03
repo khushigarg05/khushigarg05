@@ -320,13 +320,6 @@ Android application focused on structured navigation, reusable components and sm
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushigarg05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigarg05&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
-
-</div>
 
 <br>
 
@@ -429,12 +422,6 @@ Android application focused on structured navigation, reusable components and sm
 ---
 
 # 🌌 Contribution Universe
-
-
-<br>
-
-<div align="center">
-
 
 # 💭 How I Think
 
