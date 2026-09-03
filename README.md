@@ -314,15 +314,7 @@ Android application focused on structured navigation, reusable components and sm
 
 <br>
 
-<div align="center">
 
-### 👩‍💻 Women Who Master
-
-**Round 1 → Zonal Round → Amity University, Noida**
-
-Built **Her Career Navigator** with **AWS PartyRock**
-
-</div>
 
 ---
 
@@ -448,13 +440,6 @@ Built **Her Career Navigator** with **AWS PartyRock**
 
 <div align="center">
 
-### 🐍 Contribution Trail
-
-<img src="https://raw.githubusercontent.com/khushigarg05/khushigarg05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
 
 # 💭 How I Think
 
